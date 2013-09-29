@@ -1,4 +1,4 @@
-xsample
-=======
+Xtext Tycho Example
+===================
 
-Xtext Tycho Example / Parent
+Shows how to setup a multi module [Xtext](http://www.eclipse.org/Xtext/ "Xtext") project with [Tycho](http://eclipse.org/tycho/ "Tycho").
