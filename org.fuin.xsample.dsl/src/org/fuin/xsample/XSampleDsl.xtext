@@ -1,0 +1,9 @@
+grammar org.fuin.xsample.XSampleDsl with org.eclipse.xtext.common.Terminals
+
+generate xSampleDsl "http://www.fuin.org/xsample/XSampleDsl"
+
+Model:
+	greetings+=Greeting*;
+	
+Greeting:
+	'Hello' name=ID '!';
