@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>org.fuin.xsample</groupId>
 		<artifactId>org.fuin.xsample.parent</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>0.0.1</version>
 	</parent>
 
 	<artifactId>org.fuin.xsample.tests</artifactId>

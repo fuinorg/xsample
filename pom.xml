@@ -12,7 +12,7 @@
 
     <groupId>org.fuin.xsample</groupId>
     <artifactId>org.fuin.xsample.parent</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>pom</packaging>
     <name>Xtext Tycho Example / Parent</name>
     <description>Shows how to setup a multi module Xtext project with Tycho</description>

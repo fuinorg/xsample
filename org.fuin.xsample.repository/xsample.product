@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?pde version="3.5"?>
 
-<product name="Xtext Sample DSL" 
-         uid="org.fuin.xsample.product.uid" 
-         id="org.fuin.xsample.product" 
-         application="org.fuin.xsample.application"
-         version="0.0.1.qualifier" 
-         useFeatures="true" 
-         includeLaunchers="false">
+<product name="Xtext Sample DSL" uid="org.fuin.xsample.product.uid" id="org.fuin.xsample.product" application="org.fuin.xsample.application" version="0.0.1" useFeatures="true" includeLaunchers="false">
 
-   <configIni use="default" />
+   <configIni use="default">
+   </configIni>
 
-   <launcherArgs />
+   <launcherArgs>
+   </launcherArgs>
 
-   <windowImages />
+   <windowImages/>
 
    <launcher>
       <solaris/>
@@ -22,12 +18,14 @@
       </win>
    </launcher>
 
-   <vm />
+   <vm>
+   </vm>
 
-   <plugins />
+   <plugins>
+   </plugins>
 
    <features>
-      <feature id="org.fuin.xsample.sdk" version="0.0.1.qualifier"/>
+      <feature id="org.fuin.xsample.sdk" version="0.0.1"/>
    </features>
 
 

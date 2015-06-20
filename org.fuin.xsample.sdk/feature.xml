@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feature id="org.fuin.xsample.sdk"
-         label="XSampleDsl SDK Feature"
-         version="0.0.1.qualifier"
-         provider-name="fuin.org">
-    
+<feature
+      id="org.fuin.xsample.sdk"
+      label="XSampleDsl SDK Feature"
+      version="0.0.1"
+      provider-name="fuin.org">
+
    <description>
       Xtext Sample DSL
    </description>
@@ -15,19 +16,19 @@
    <license url="license.html">
       %license
    </license>
-    
-    <plugin
-            id="org.fuin.xsample.dsl"
-            download-size="0"
-            install-size="0"
-            version="0.0.1.qualifier"
-            unpack="false"/>
-    
-    <plugin
-            id="org.fuin.xsample.ui"
-            download-size="0"
-            install-size="0"
-            version="0.0.1.qualifier"
-            unpack="false"/>
-            
+
+   <plugin
+         id="org.fuin.xsample.dsl"
+         download-size="0"
+         install-size="0"
+         version="0.0.1"
+         unpack="false"/>
+
+   <plugin
+         id="org.fuin.xsample.ui"
+         download-size="0"
+         install-size="0"
+         version="0.0.1"
+         unpack="false"/>
+
 </feature>
