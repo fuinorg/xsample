@@ -7,7 +7,7 @@
     <parent>
         <groupId>org.fuin</groupId>
         <artifactId>pom</artifactId>
-        <version>1.0.6</version>
+        <version>1.1.0</version>
     </parent>
 
     <groupId>org.fuin.xsample</groupId>
@@ -33,13 +33,6 @@
         <tycho-version>0.18.1</tycho-version>
         <manifest-location>META-INF</manifest-location>       
     </properties>
-
-    <distributionManagement>
-        <repository>
-            <id>fuin-local-repository</id>
-            <url>file:/${org.fuin.local.repository}</url>
-        </repository>
-    </distributionManagement>
 
     <modules>
         <module>org.fuin.xsample.dsl</module>
