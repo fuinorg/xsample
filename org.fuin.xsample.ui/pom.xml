@@ -6,7 +6,7 @@
     <parent>
         <groupId>org.fuin.xsample</groupId>
         <artifactId>org.fuin.xsample.parent</artifactId>
-        <version>0.0.1</version>
+        <version>0.0.2</version>
     </parent>
 
     <artifactId>org.fuin.xsample.ui</artifactId>
@@ -20,7 +20,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-deploy-plugin</artifactId>
-				<version>2.7</version>
+				<version>3.0.0-M1</version>
 				<configuration>
 					<skip>true</skip>
 				</configuration>

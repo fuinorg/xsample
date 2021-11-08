@@ -3,8 +3,6 @@
  */
 package org.fuin.xsample.validation;
 
-import org.fuin.xsample.validation.AbstractXSampleDslValidator;
-
 /**
  * Custom validation rules.
  * 

@@ -2,7 +2,7 @@
 <feature
       id="org.fuin.xsample.sdk"
       label="XSampleDsl SDK Feature"
-      version="0.0.1"
+      version="0.0.2"
       provider-name="fuin.org">
 
    <description>
@@ -21,14 +21,14 @@
          id="org.fuin.xsample.dsl"
          download-size="0"
          install-size="0"
-         version="0.0.1"
+         version="0.0.2"
          unpack="false"/>
 
    <plugin
          id="org.fuin.xsample.ui"
          download-size="0"
          install-size="0"
-         version="0.0.1"
+         version="0.0.2"
          unpack="false"/>
 
 </feature>

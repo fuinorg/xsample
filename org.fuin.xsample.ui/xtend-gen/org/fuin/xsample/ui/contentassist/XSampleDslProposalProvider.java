@@ -3,8 +3,6 @@
  */
 package org.fuin.xsample.ui.contentassist;
 
-import org.fuin.xsample.ui.contentassist.AbstractXSampleDslProposalProvider;
-
 /**
  * see http://www.eclipse.org/Xtext/documentation.html#contentAssist on how to customize content assistant
  */

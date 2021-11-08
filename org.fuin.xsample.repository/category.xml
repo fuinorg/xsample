@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature id="org.fuin.xsample.sdk" version="0.0.1">
+   <feature id="org.fuin.xsample.sdk" version="0.0.2">
       <category name="org.fuin.xsample.category"/>
    </feature>
    <category-def name="org.fuin.xsample.category" label="Xtext Sample DSL">
